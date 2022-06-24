@@ -1,4 +1,4 @@
-const mainConfig = {
+module.exports = {
   twin: {
     preset: 'emotion',
     config: 'tailwind.config.js',
@@ -8,5 +8,3 @@ const mainConfig = {
     hasSuggestions: true
   }
 }
-
-module.exports = mainConfig
