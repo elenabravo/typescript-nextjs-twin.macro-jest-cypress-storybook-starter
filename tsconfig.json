@@ -21,7 +21,7 @@
     "jsx": "preserve",
     "baseUrl": "./src",
     "paths": {
-      "@components/*": ["components/*"],
+      "@/*": ["./src/*"],
       "@/public/*": ["./public/*"]
     }
   },
